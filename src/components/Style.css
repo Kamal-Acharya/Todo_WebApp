@@ -1,4 +1,8 @@
 
+*{
+  margin: 0;
+  padding: 0;
+}
 .check_box {
     display: block;
     position: relative;
@@ -89,4 +93,8 @@
 
  h5{
   width: 400px; 
+ }
+
+ @media only screen and(max-width:300px){
+
  }
